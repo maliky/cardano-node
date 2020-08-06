@@ -179,7 +179,7 @@ This protocol version number gets used by block producing nodes as part of the s
 
 #### Tracing
 
-`Tracers` tell your node what information you are interested in when logging. Like switches that you can turn ON or OFF according the type and quantity of information that you are interesetd in. This provides fairly coarse grained control, but it is relatively efficient at filtering out unwanted trace output.
+`Tracers` tell your node what information you are interested in when logging. Like switches that you can turn ON or OFF according the type and quantity of information that you are interested in. This provides fairly coarse grained control, but it is relatively efficient at filtering out unwanted trace output.
 
 The node can run in either the `SimpleView` or `LiveView`. The `SimpleView` just uses standard output, optionally with log output. The `LiveView` is a text console with a live view of various node metrics.
 
