@@ -152,7 +152,7 @@ Here is a brief description of each parameter. You can learn more in the [spec](
 
 The default `config.json` file that we downloaded is shown below.
 
-This file has __4__ sections that allow you to have full control on what your node does and how the informtion is presented.
+This file has __4__ sections that allow you to have full control on what your node does and how the information is presented.
 
 __NOTE Due to how the config.json file is generated, fields on the real file are shown in a different (less coherent) order. Here we present them in a more structured way__
 
